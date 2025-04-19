@@ -1,6 +1,6 @@
 ## Hi there, I'm Noshin Nawal 👋
 
-🎓 I graduated from the Department of **Computer Science and Engineering, BUET**.
+🎓 I graduated in **Computer Science and Engineering(CSE)** from **BUET**.
 
 🏆 I'm an **ICPC World Finalist**, passionate about problem-solving and competitive programming.
 
