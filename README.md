@@ -8,6 +8,8 @@
 
 💻 I'm also interested in **web development**, and I enjoy exploring **new technologies and tools** to grow my skills.
 
+Let's connect via [mail](mailto:your.email@example.com) or [linkedin](https://www.linkedin.com/in/nawal03/).
+
 ---
 
 ## 🛠️ Tech Stack
