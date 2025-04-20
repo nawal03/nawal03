@@ -14,8 +14,6 @@ Let's connect via [mail](mailto:your.email@example.com) or [linkedin](https://ww
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - **Languages**  
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
